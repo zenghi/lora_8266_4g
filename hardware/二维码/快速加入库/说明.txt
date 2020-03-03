@@ -1,0 +1,2 @@
+先运行 。/oksh test。txt
+再运行 。/okadd.sh testadd.txt
